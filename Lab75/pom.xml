@@ -11,4 +11,12 @@
         <exec.mainClass>com.mycompany.lab75.Lab75</exec.mainClass>
     </properties>
     <name>UserApp</name>
+     <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <type>jar</type>
+        </dependency>
+    </dependencies>
 </project>
